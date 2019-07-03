@@ -1,0 +1,5 @@
+
+#
+# KGP repo
+#
+deb http://archive.kinguardproject.net/dev/ kgp-stretch main

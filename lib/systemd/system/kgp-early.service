@@ -1,0 +1,11 @@
+[Unit]
+Description=KGP wide scripts
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/bin/run-parts --lsbsysinit  -- /etc/kinguard/scripts/boot-early
+ExecStop=/bin/run-parts --lsbsysinit  -- /etc/kinguard/scripts/shutdown-late
+
+[Install]
+WantedBy=local-fs.target

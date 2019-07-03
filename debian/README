@@ -1,0 +1,7 @@
+The Debian Package kinguard 
+----------------------------
+
+This is the keep metapackage responsible for pulling deps together for
+the Kinguard project and provide some initial configuration of the unit.
+
+ -- Tor Krill <tor@openproducts.se>  Wed, 3 Jul  2019 08:58:58 +0200

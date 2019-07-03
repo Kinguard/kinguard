@@ -1,0 +1,40 @@
+Source: kinguard
+Section: admin
+Priority: standard
+Maintainer: Tor Krill <tor@openproducts.se>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: http://www.kinguardproject.org
+
+Package: kinguard
+Architecture: all
+Depends: ${misc:Depends},
+ opi-access,
+ opi-authproxy,
+ opi-backend,
+ opi-backup,
+ opi-control,
+ opi-firewall,
+ opi-postsetup,
+ opi-themes,
+ opi-updates,
+ opi-webbackend,
+ opi-webfrontend,
+ kgp-webserver,
+ kgp-mail,
+ kgp-database,
+ kinguard-certhandler,
+ kinguard-keyring,
+ kinguard-powermanagement,
+ kinguard-utils (>=1.16),
+ keep-webapps,
+ locales,
+ nginx-opi,
+ secop,
+ systemd,
+ libsasl2-modules,
+ ca-certificates,
+ op-ca
+Description: Kinguard meta package 
+ Package responsible for pulling in main deps for
+ the Kinguard project distribution

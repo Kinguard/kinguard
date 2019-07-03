@@ -1,0 +1,12 @@
+[Unit]
+Description=KGP narrow boot scripts
+After=multi-user.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/bin/run-parts --lsbsysinit  -- /etc/kinguard/scripts/boot-late
+ExecStop=/bin/run-parts --lsbsysinit  -- /etc/kinguard/scripts/shutdown-early
+
+[Install]
+WantedBy=multi-user.target

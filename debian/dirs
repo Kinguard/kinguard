@@ -1,0 +1,7 @@
+/etc/opi
+/etc/apt/sources.list.d
+/etc/apt/preferences.d
+/etc/kinguard/scripts/boot-early
+/etc/kinguard/scripts/boot-late
+/etc/kinguard/scripts/shutdown-early
+/etc/kinguard/scripts/shutdown-late
