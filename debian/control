@@ -35,6 +35,8 @@ Depends: ${misc:Depends},
  libsasl2-modules,
  ca-certificates,
  op-ca
+Replaces: keep (<=19.06)
+Breaks: keep (<=19.06)
 Description: Kinguard meta package 
  Package responsible for pulling in main deps for
  the Kinguard project distribution
