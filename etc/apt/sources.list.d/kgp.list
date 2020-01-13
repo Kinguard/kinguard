@@ -2,4 +2,4 @@
 #
 # KGP repo
 #
-deb http://archive.kinguardproject.net/dev/ kgp-stretch main
+deb http://archive.kinguardproject.net/dev/ kgp-buster main
