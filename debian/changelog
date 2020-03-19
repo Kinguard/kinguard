@@ -1,3 +1,9 @@
+kinguard (1.4) vili; urgency=medium
+
+  * Add disabled kgp debian mirror to sources
+
+ -- Tor Krill <tor@openproducts.se>  Thu, 19 Mar 2020 12:07:17 +0100
+
 kinguard (1.3) vili; urgency=medium
 
   * Try break conflict with old keep package
