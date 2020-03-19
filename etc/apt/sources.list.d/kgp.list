@@ -3,3 +3,4 @@
 # KGP repo
 #
 deb http://archive.kinguardproject.net/dev/ kgp-buster main
+#deb http://archive.kinguardproject.net/dev/ debian-unstable main
