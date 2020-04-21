@@ -1,3 +1,9 @@
+kinguard (1.5) vili; urgency=medium
+
+  * Update sources to use new kinguard stable repo
+
+ -- Tor Krill <tor@openproducts.se>  Tue, 21 Apr 2020 16:30:49 +0200
+
 kinguard (1.4) vili; urgency=medium
 
   * Add disabled kgp debian mirror to sources

@@ -2,5 +2,7 @@
 #
 # KGP repo
 #
-deb http://archive.kinguardproject.net/dev/ kgp-buster main
-#deb http://archive.kinguardproject.net/dev/ debian-unstable main
+deb http://archive.kinguardproject.net/gimle/ vili main
+
+# Kinguard partial debian mirror
+#deb http://archive.kinguardproject.net/gimle/ debian-stable main
