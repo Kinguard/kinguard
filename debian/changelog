@@ -1,3 +1,9 @@
+kinguard (1.6) vili; urgency=medium
+
+  * Add kinguard version file
+
+ -- Tor Krill <tor@openproducts.se>  Thu, 04 Jun 2020 11:21:31 +0200
+
 kinguard (1.5) vili; urgency=medium
 
   * Update sources to use new kinguard stable repo

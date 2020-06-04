@@ -2,3 +2,4 @@ etc/apt/preferences.d/kgp-pin.pref	etc/apt/preferences.d/
 etc/apt/sources.list.d/kgp.list		etc/apt/sources.list.d/
 lib/systemd/system/kgp-early.service	lib/systemd/system/
 lib/systemd/system/kgp-late.service	lib/systemd/system/
+etc/kinguard/version				etc/kinguard/
