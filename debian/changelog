@@ -1,3 +1,46 @@
+kinguard (1.7) vili; urgency=medium
+
+  * Update version for Buster release
+
+ -- Tor Krill <tor@openproducts.se>  Tue, 07 Sep 2021 09:38:15 +0200
+
+kinguard (1.7~test6) vili; urgency=medium
+
+  * Bump release version
+  * Update sources to point at stable/elli
+
+ -- Tor Krill <tor@openproducts.se>  Mon, 09 Aug 2021 15:30:26 +0200
+
+kinguard (1.7~test5) vili; urgency=medium
+
+  * Bump release version
+
+ -- Tor Krill <tor@openproducts.se>  Fri, 09 Jul 2021 14:39:00 +0200
+
+kinguard (1.7~test4) vili; urgency=medium
+
+  * Add some missing files to git and add some debug logging
+
+ -- Tor Krill <tor@openproducts.se>  Fri, 07 May 2021 15:41:18 +0200
+
+kinguard (1.7~test3) vili; urgency=medium
+
+  * Add preinst to detect new install of package
+
+ -- Tor Krill <tor@openproducts.se>  Wed, 05 May 2021 15:08:28 +0200
+
+kinguard (1.7~test2) vili; urgency=medium
+
+  * Bump version to match new target release
+
+ -- Tor Krill <tor@openproducts.se>  Fri, 26 Feb 2021 13:40:11 +0100
+
+kinguard (1.7~test1) vili; urgency=medium
+
+  * Bump version
+
+ -- Tor Krill <tor@openproducts.se>  Mon, 11 Jan 2021 12:16:23 +0100
+
 kinguard (1.6) vili; urgency=medium
 
   * Add kinguard version file
