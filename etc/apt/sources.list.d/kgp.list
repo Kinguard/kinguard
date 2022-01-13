@@ -2,7 +2,4 @@
 #
 # KGP repo
 #
-deb http://archive.kinguardproject.net/gimle/ elli main
-
-# Kinguard partial debian mirror
-#deb http://archive.kinguardproject.net/gimle/ debian-stable main
+deb http://archive.kinguardproject.net/vigrid/ elli main
