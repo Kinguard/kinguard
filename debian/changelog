@@ -1,3 +1,14 @@
+kinguard (1.8) vigrid; urgency=medium
+
+  * Bump kgp version to 22.02
+  * Disable debian upstream repos. Provided by the keep pkg instad
+  * Update sources to new repo
+  * Update to use debian upstream for dist
+  * Update kgp version
+  * Bullseye build
+
+ -- Tor Krill <tor@openproducts.se>  Tue, 01 Feb 2022 14:20:45 +0100
+
 kinguard (1.7) vili; urgency=medium
 
   * Update version for Buster release
